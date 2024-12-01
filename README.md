@@ -10,6 +10,6 @@
 - **เว็บเซิร์ฟเวอร์:** รองรับ PHP  
 - **ฐานข้อมูล:** MySQL  
 - **พื้นที่เก็บข้อมูล:** สำหรับจัดเก็บไฟล์เว็บไซต์  
-- **ชื่อโฮสต์:** [https://web.rmutp.ac.th](https://web.rmutp.ac.th)  
+- **ชื่อโฮสต์:** [https://web.rmutp.ac.th](https://web.rmutp.ac.th/eng/thunyathep/lab12-Webhost/)  
 
 ---
